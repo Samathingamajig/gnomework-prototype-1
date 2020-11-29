@@ -1,0 +1,12 @@
+.SuperInput {
+  textarea {
+    padding: 1rem;
+    border: 2px solid black;
+    border-radius: 1rem;
+
+    resize: vertical;
+    width: 800px;
+    min-height: 300px;
+    height: auto;
+  }
+}
